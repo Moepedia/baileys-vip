@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:YanLynnn/baileys-pro"
+    "baileys": "github:Moepedia/baileys-vip"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:YanLynnn/baileys-pro
+npm install baileys@github:Moepedia/baileys-vip
 ```
 
 Then import the default function in your code:
