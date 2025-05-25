@@ -1,6 +1,6 @@
 {
-  "name": "YanLynnn/baileys-pro",
-  "version": "6.8.3",
+  "name": "Moepedia/baileys-vip",
+  "version": "7.1.1",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys", "baileys-mod", "wabot", "whatsapp",
@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Moepedia",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
